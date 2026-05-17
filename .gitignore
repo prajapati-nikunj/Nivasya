@@ -1,0 +1,32 @@
+# .gitignore
+# Generated: 2026-05-16 | Method: Antigravity Orchestral v1.0
+
+# Xcode
+# ---------
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.xcuserstate
+
+# Project files (Explicitly requested by user)
+# WARNING: Ignoring pbxproj makes the project unopenable on other machines without recreation.
+*.xcodeproj/
+*.xcworkspace/
+*.pbxproj
+
+# Folders (Explicitly requested by user)
+Docs/
+
+# Swift Package Manager
+# ---------
+.build/
+Packages.resolved
+SwiftPM/
+
+# macOS
+# ---------
+.DS_Store
+*.swp
+*~
+.lock

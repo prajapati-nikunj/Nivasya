@@ -17,7 +17,7 @@
 | Home | Property Details |
 |------|-----------------|
 | <img width="299" height="599" alt="N-Dark" src="https://github.com/user-attachments/assets/c494f1e9-7740-4eec-881a-805fe49f58e3" />| <img width="299" height="599" alt="Dt1" src="https://github.com/user-attachments/assets/537e6cc1-d8fa-40b2-bc01-c0a59fa6fd58" /> |
-| <img width="299" height="599" alt="N-Light" src="https://github.com/user-attachments/assets/21d6fbb1-d1b9-40ff-9fa5-89876449847f" />| <img width="299" height="599" alt="Dt2" src="https://github.com/user-attachments/assets/aed3e023-5561-4841-9665-370221fa420c" /> |
+
 
 
 
